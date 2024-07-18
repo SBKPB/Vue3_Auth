@@ -1,0 +1,10 @@
+.DS_Store
+.env
+__pycache__
+*.pyc
+.mypy_cache
+.coverage
+htmlcov
+.cache
+.venv
+.vscode

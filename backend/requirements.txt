@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+SQLModel
+pydantic-settings
+passlib[bcrypt]
+resend
